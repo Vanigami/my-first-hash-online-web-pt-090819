@@ -25,7 +25,6 @@ def retrieval
 
 end
 
-t
 def adding
   shipping_manifest = {
                   "whale bone corsets" => 5, 
