@@ -21,9 +21,11 @@ def retrieval
                  }
 
   # Look up the value of the "oil paintings" key in the shipping_manifest hash below
+  he_manifest["oil paintings"]
 
 end
-the_manifest["oil paintings"]
+
+t
 def adding
   shipping_manifest = {
                   "whale bone corsets" => 5, 
